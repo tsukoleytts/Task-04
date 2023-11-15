@@ -2,7 +2,7 @@
 
 public class task4 {
     public static void main(String[] args) {
-        int score = 76;
+        int score = 85;
         if(score>90 && score<=100)
             System.out.println("A grade");
         if(score>80 && score<=89)
